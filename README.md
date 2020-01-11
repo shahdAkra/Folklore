@@ -1,0 +1,2 @@
+# Folklore
+A hypothetical site to buy Palestinian’s souvenirs for international customers. It allows the customers to search for products and buy them online. It have the following functionalities:  • Search through the stores’ inventory of products  • Place an order for products. • Receive confirmation that an order has been placed.  • Allow the store manager to add and update products details, etc.  • Contact us • Customer Registration 
