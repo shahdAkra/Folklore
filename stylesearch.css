@@ -1,0 +1,156 @@
+body{
+margin:0;
+background-color: #ffffe6;
+}
+@import url("//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css");
+#div2 { position: relative; }
+#div2 input { text-indent: 30px;}
+#div2 .fa-search { 
+  position: absolute;
+  top: 24px;
+  left: 7px;
+  font-size: 15px;
+  margin-left: 900px;
+  margin-top: 80px;
+  color:   #a2a276;
+
+
+}
+ #searchbtn{
+  background-color:  #999966;
+  border-radius: 8px;
+  height: 45px;
+  border: none;
+  color: #ffffcc;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-top:-10px;
+  margin-left: 0;
+  cursor: pointer;
+}
+ #priceform #pricebtn{
+  background-color:  #999966;
+  border-radius: 8px;
+  height: 45px;
+  border: none;
+  color: #ffffcc;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-top:-10px;
+  margin-left: 0;
+  cursor: pointer;
+}
+#myhead{ 
+margin: 0;
+border: none;
+background-color:#cc2900;
+height: 170px;
+opacity: .8;
+}
+  #myhead p{
+    margin-top: 150px;
+    margin-left: 340px;
+    color: #ffffcc;
+    font-size: 20px;
+  }
+
+#searchform #search{
+    
+    border: none;
+    background-color: #ffffe6;
+    border-radius: 10px; 
+    margin-left: 980px;
+    margin-top: -130px;
+    height: 48px;
+    width: 300px;
+    
+
+}
+
+#folk{
+   text-decoration: none;
+   font-family:'Bad Script',cursive; 
+   width: 125px;
+   height: 50px;
+   border: 1px solid #ffffcc;
+   border-radius: 30px;
+   padding-left: 60;
+   margin-left: 600px;
+    color:  #133926;
+    padding: 5px;
+    margin-top: -95px;
+    margin-bottom: 0px;
+    font-size: 36px;
+    text-align: center;
+    background-color: #ffffcc;
+    opacity: .98;
+    cursor: pointer;
+    padding-top: 0px;
+    padding-bottom: 25px;
+  }
+
+
+
+  #folkLink{
+  text-decoration: none;
+}  
+
+
+a #folk{
+	text-decoration: none;
+}
+  #UL1{
+  cursor: pointer;
+  margin-left: 50px;
+	padding:0px;
+	list-style: none;
+	text-decoration: none;
+  margin: 0;
+  color:  #ffffe6;
+
+
+}
+#UL1 li{
+	height: 20px;
+  float: left;
+  background-color: #cc2900;
+	line-height: 40px;
+  margin-left: 60px;
+	text-align: center;
+  padding-top: 10px; 
+  display: flex;
+}
+
+#UL1 li a{
+	text-decoration: none;
+  display: inline;
+  color:  #ffffe6;
+}
+
+#searchFilter{
+   margin-left: 200px;
+    margin-top: 40px; 
+}
+
+/*#UL1 li ul li{
+ display: none;
+}
+#UL1 li ul li{
+    margin-bottom: 1px;
+    margin-left: -40px;
+    opacity: .9;
+
+}
+#UL1 li:hover ul li{
+	display: block;
+}
+#UL1 li a:hover {
+
+} */
+

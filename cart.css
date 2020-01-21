@@ -1,0 +1,54 @@
+body{
+  background-color:white;
+}
+#products{
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 670px;
+  height: 200px;
+  margin-left: 300px;
+  margin-top: 100px;
+}
+
+#products td, #products th {
+  border: 1px solid #ddd;
+  padding: 4px;
+}
+
+/*#products tr:nth-child(even){background-color: #f2f2f2;} */
+
+#products tr:hover {background-color: #ffffcc;}
+
+#products th {
+  opacity: .95;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  text-align: left;
+  background-color: #999966;
+  color: #ffffcc;
+}
+#products td a{
+  text-decoration: none;
+  color: #cc2900;
+
+  }
+#checkOut{
+
+   float: right;  
+   width: 100px;
+   margin-top: 170px;
+   margin-right: 200px;
+   height: 40px;
+   border:none;
+   border-radius: 5px;
+   color: #ffffcc;
+   background-color:#cc2900;
+    opacity: .85;
+
+ /*  position: absolute; */
+ }
+#checkOut #refcheck{
+  text-decoration: none;
+     color: #ffffcc;
+
+}

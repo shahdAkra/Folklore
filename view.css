@@ -1,0 +1,40 @@
+body{
+	background-color: white;
+}
+
+#viewed_data{
+  border: solid 1px #ffffcc;
+  width: 1000px;
+  margin-top: 40px;
+  margin-left: 160px;
+  height: 400px;
+  background-color: #ffffcc;
+  color:  #133926;
+
+
+}
+ #viewed_data .productName{
+  margin-left: 700px;
+  margin-top: -100px;
+
+}
+ /*#viewed_data h4{
+  margin-left: 500px;
+  margin-top: -150px;
+
+}  */
+#butsection{
+	margin-top: 0px;
+	margin-left: 440px;
+	overflow: hidden;
+	position:absolute;
+	cursor: pointer;
+
+}
+
+#viewHiddenName{
+	margin-left:450px;
+	margin-top:-300;
+	color: #cc2900;
+
+}
